@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2020 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="299px" height="55px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10.84 2"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Geometr415 Blk BT">
+		<font-face-src>
+			<font-face-name name="Geometr415 Blk BT Black"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="A" horiz-adv-x="667" d="M235.273 225.254l186.211 0 -91.934 221.925 -94.2771 -221.925zm-265.314 -225.254l361.579 730.834 10.6817 0 353.58 -730.834 -177.048 0 -44.8762 103.117 -287.663 0 -45.8781 -103.117 -170.374 0z"/>
+   <glyph unicode="I" horiz-adv-x="336" d="M83.0945 0l0 708.808 169.195 0 0 -708.808 -169.195 0z"/>
+   <glyph unicode="R" horiz-adv-x="637" d="M273.152 579.657l-27.8759 0 0 -196.214 35.7135 0c42.7107,0 75.2569,8.67789 97.7839,25.8559 22.5108,17.1942 33.6935,42.0482 33.6935,74.255 0,33.8713 -10.8433,58.2243 -32.7077,73.4147 -21.8483,15.1904 -57.384,22.6886 -106.607,22.6886zm-192.061 -579.657l0 708.808 182.203 0c58.4021,0 103.618,-3.82991 135.824,-11.5059 32.2068,-7.67598 60.5675,-20.3615 85.4377,-38.3799 26.3569,-18.8587 46.88,-42.2259 61.3916,-70.0857 14.5278,-27.8598 21.7028,-57.2224 21.7028,-88.104 0,-44.7146 -11.3443,-83.757 -34.049,-117.289 -22.6886,-33.5481 -55.3963,-59.7433 -98.1071,-78.7636l216.252 -304.68 -193.225 0 -189.217 278.323 -24.0298 0 0 -278.323 -164.185 0z"/>
+   <glyph unicode="T" horiz-adv-x="618" d="M225.254 0l0 560.637 -225.254 0 0 148.171 618.7 0 0 -148.171 -224.252 0 0 -560.637 -169.195 0z"/>
+   <glyph unicode="W" horiz-adv-x="895" d="M286.5 -23.0279l-296.519 731.836 171.376 0 137.812 -382.264 148.171 405.292 13.1865 0 149.172 -405.292 136.487 382.264 157.85 0 -294.337 -731.836 -10.6817 0 -151.677 405.292 -148.171 -405.292 -12.6694 0z"/>
+   <glyph unicode="Y" horiz-adv-x="620" d="M218.256 0l0 336.386 -253.291 372.422 204.229 0 147.993 -224.429 163.199 224.429 179.359 0 -273.313 -365.587 0 -343.221 -168.177 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Geometr415 Blk BT";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:normal;font-size:2.65px;font-family:'Geometr415 Blk BT'}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="3.95" y1="0.18" x2="3.95" y2="1.94">
+   <stop offset="0" style="stop-opacity:1; stop-color:#60C0D0"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#74D58C"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-0.21" y="1.94"  class="fil0 fnt0">RIWAYAT</text>
+ </g>
+</svg>
